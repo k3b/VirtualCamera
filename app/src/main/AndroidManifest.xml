@@ -7,13 +7,13 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:allowBackup="false"
+        android:icon="@drawable/virtual_camera"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         >
-        <activity android:name=".Camera2GetDocumentActivity" >
+        <activity android:name=".Camera2GetDocumentActivity"
+            android:label="@string/label_select_picture">
             <intent-filter>
                 <action android:name="android.media.action.IMAGE_CAPTURE"/>
                 <category android:name="android.intent.category.DEFAULT"/>
