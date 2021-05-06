@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virtual Camera</string>
+    <string name="permission_error">Keine Berechtigung</string>
+    <string name="label_select_picture">Wähle ein Foto</string>
+</resources>
