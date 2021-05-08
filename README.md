@@ -38,3 +38,11 @@ Inside your "app with camera" open an existing photo jpg.
 No adds, no usertracking, no internet connection, free open source, available on f-droid
 
 -----
+
+## Donations: 
+
+If you like this app please consider to donating to https://f-droid.org/donate .
+
+Since android-developping is a hobby (and an education tool) i donot want any 
+money for my apps so donation should go to projects i benefit from.
+
