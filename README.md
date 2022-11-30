@@ -1,5 +1,7 @@
 # ![](https://github.com/k3b/VirtualCamera/raw/master/app/src/main/res/drawable/virtual_camera.png) Virtual Camera: Select from an existing jpg file instead of taking a photo from camera chooser.
 
+Note: this app is abendoned. Use https://github.com/adriangl/pict2cam instead.
+
 When "Virtual Camera" is installed many Android-Apps that can select a camera to take a photo can also 
 choose to open an exisiting jpg file. 
  
